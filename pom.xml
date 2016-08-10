@@ -96,6 +96,13 @@
 	    <version>2.3.4.726</version>
 	</dependency> 
 	
+	<!-- httpclient -->
+	<dependency>
+        <groupId>org.apache.httpcomponents</groupId>
+        <artifactId>httpclient</artifactId>
+        <version>${httpclient.version}</version>
+    </dependency>
+	
 	<!-- Commons工具包 -->
 	<dependency>
 	    <groupId>commons-lang</groupId>
